@@ -1,3 +1,3 @@
 class Formatter {
-  static 
+  static capitalize
 }
